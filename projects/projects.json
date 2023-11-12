@@ -1,0 +1,57 @@
+[
+  {
+    "name": "CodeClause_URL_Shortner ",
+    "desc": "URL_Shortner",
+    "image": "URL_Shortner",
+    "links": {
+      "view": "https://github.com/AgnideepPoddar/CodeClause_URL_Shortner",
+      "code": "https://github.com/AgnideepPoddar/CodeClause_URL_Shortner/blob/main/URL%20Shortner.py"
+    }
+  },
+  {
+    "name": "CodeClause_Landing_Page ",
+    "desc": "Landing_Page",
+    "image": "Landing_Page",
+    "links": {
+      "view": "https://github.com/AgnideepPoddar/CodeClause_URL_Shortner",
+      "code": "https://github.com/AgnideepPoddar/CodeClause_URL_Shortner/blob/main/URL%20Shortner.py"
+    }
+  },
+
+  {
+    "name": "Diameter of Binary Tree",
+    "desc": "DSA Project",
+    "image": "Diameter of Binary Tree",
+    "links": {
+      "view": "https://leetcode.com/problems/diameter-of-binary-tree/description/",
+      "code": "https://leetcode.com/problems/diameter-of-binary-tree/description/"
+    }
+  },
+  {
+    "name": "Language-Translator",
+    "desc": "Language-Translator",
+    "image": "Language-Translator",
+    "links": {
+      "view": "https://github.com/AgnideepPoddar/Language-Translator",
+      "code": "https://github.com/AgnideepPoddar/Language-Translator/blob/main/Language-Translator/translator%20code.py"
+    }
+  },
+  {
+    "name": "Password-Manager",
+    "desc": "Password-Manager",
+    "image": "Password-Manager",
+    "links": {
+      "view": "https://github.com/AgnideepPoddar/Password-Manager",
+      "code": "https://github.com/AgnideepPoddar/Password-Manager/blob/main/scratch_1.java"
+    }
+  },
+  {
+    "name": "Development-of-a-Simple-Package-Manager-in-C",
+    "desc": "OS Project",
+    "image": "Development-of-a-Simple-Package-Manager-in-C",
+    "links": {
+      "view": "https://github.com/AgnideepPoddar/Development-of-a-Simple-Package-Manager-in-C",
+      "code": "https://github.com/AgnideepPoddar/Development-of-a-Simple-Package-Manager-in-C/blob/main/PackageManager.c"
+    }
+  }
+]
